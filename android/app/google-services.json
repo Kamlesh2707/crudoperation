@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241077561918",
+    "project_id": "crudopration-7d8b1",
+    "storage_bucket": "crudopration-7d8b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241077561918:android:96819fb45f41ad6838bf6f",
+        "android_client_info": {
+          "package_name": "com.example.crudoperation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWDiPRjsi3cg9HU7fdfTsfVkI86luL6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
